@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - Linkedin:https://www.linkedin.com/in/abdulwahab718/
 - Twitter:https://twitter.com/abdulwahab7188
 - Facebook:https://www.facebook.com/abdulwahabbeyblader/
-- Website:https:cyberlancer.net
+- Website:https://cyberlancer.net
 - Fiver:https://www.fiverr.com/cyberlancer718
 
