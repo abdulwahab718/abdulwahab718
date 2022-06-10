@@ -1,8 +1,4 @@
-### I am working on the following things👋
-
-
-
-# Here are some ideas to get you started:
+# I am working on the following things👋
 -Cyber Lancer- MY FUTURE BRAND & NETWORK -REMEMBER THE NAME- 
 - 🔭 I’m currently working on Cyber Security ...
 - 🌱 I’m currently learning Wordpress Development, Networking, Ethical Hacking ...
