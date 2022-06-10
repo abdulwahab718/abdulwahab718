@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+# Here are some ideas to get you started:
 -Cyber Lancer- MY FUTURE BRAND & NETWORK -REMEMBER THE NAME- 
 - 🔭 I’m currently working on Cyber Security ...
 - 🌱 I’m currently learning Wordpress Development, Networking, Ethical Hacking ...
