@@ -17,4 +17,4 @@
 - Fiver:https://www.fiverr.com/cyberlancer718
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdulwahab718&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdulwahab718&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
