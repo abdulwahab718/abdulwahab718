@@ -1,5 +1,5 @@
 # HI,I AM ABDUL WAHAB 👋
-<img src="https://images.credly.com/size/680x680/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" >
+<img src="https://images.credly.com/size/680x680/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" witdh=400 height=400 >
 
 -Cyber Lancer- MY FUTURE BRAND & NETWORK -REMEMBER THE NAME- 
 - 🔭 I’m currently working on Cyber Security ...
