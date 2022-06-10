@@ -1,4 +1,6 @@
 # I am working on the following things👋
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdulwahab718&theme=onedark)](https://github.com/abdulwhab718/github-profile-trophy)
 -Cyber Lancer- MY FUTURE BRAND & NETWORK -REMEMBER THE NAME- 
 - 🔭 I’m currently working on Cyber Security ...
 - 🌱 I’m currently learning Wordpress Development, Networking, Ethical Hacking ...
